@@ -1,23 +1,23 @@
 quiz_data = [
     {
-        "question": "What is the capital of France?",
-        "choices": ["Paris", "London", "Berlin", "Madrid"],
-        "answer": "Paris"
+        "pergunta": "Qual é a capital da França?",
+        "escolhas": ["Paris", "Londres", "Berlim", "Madri"],
+        "resposta": "Paris"
     },
     {
-        "question": "What is the largest planet in our solar system?",
-        "choices": ["Jupiter", "Saturn", "Mars", "Earth"],
-        "answer": "Jupiter"
+        "pergunta": "Qual é o maior planeta do nosso sistema solar?",
+        "escolhas": ["Júpiter", "Saturno", "Marte", "Terra"],
+        "resposta": "Júpiter"
     },
     {
-        "question": "What is the chemical symbol for gold?",
-        "choices": ["Go", "Au", "Ag", "Gd"],
-        "answer": "Au"
+        "pergunta": "Qual é o símbolo químico do ouro?",
+        "escolhas": ["Go", "Au", "Ag", "Gd"],
+        "resposta": "Au"
     },
     {
-        "question": "Which country is known as the 'Land of the Rising Sun'?",
-        "choices": ["China", "Japan", "South Korea", "Thailand"],
-        "answer": "Japan"
+        "pergunta": "Qual país é conhecido como a 'Terra do Sol Nascente'?",
+        "escolhas": ["China", "Japão", "Coreia do Sul", "Tailândia"],
+        "resposta": "Japão"
     }
-    # Add more questions here
+    
 ]
